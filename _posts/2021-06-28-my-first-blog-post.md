@@ -1,5 +1,5 @@
 this is a sample **text** 
 ---
 title: my first blog 
-date: 28-06-2021
+date: 2021-06-28
 ---
